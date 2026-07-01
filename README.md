@@ -6,15 +6,7 @@
 ![Developers Club IIITDM](https://img.shields.io/badge/💻_Developers_Club_IIITDM-Coordinator-0A66C2?style=for-the-badge) <br>
 ![Cybersecurity Community IIITDM](https://img.shields.io/badge/🔐_Cybersecurity_Community_IIITDM-Coordinator-2E8B57?style=for-the-badge) <br>
 
-> 💡 Growing through mentorship, leadership, and global learning opportunities.
 
-<p align="center">
-  
-![Girls Leading Tech](https://img.shields.io/badge/👩‍💻_Girls_Leading_Tech-Member-EC407A?style=for-the-badge) <br>
-![Logitech × Aspire For Her](https://img.shields.io/badge/🌱_Logitech_×_Aspire_For_Her-Mentee-00B388?style=for-the-badge) <br>
-![SheFi Season_17](https://img.shields.io/badge/💜_SheFi_Season_17-Scholar-6C63FF?style=for-the-badge) <br>
-
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shathiyakiiitdmk29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kannanshathiya7@gmail.com) 
