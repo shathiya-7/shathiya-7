@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm Shathiya! 👩‍💻
 <br>
 
-## 🌍 Learning Beyond the Classroom 🌟
-
-
 ![Developers Club IIITDM](https://img.shields.io/badge/💻_Developers_Club_IIITDM-Coordinator-0A66C2?style=for-the-badge) <br>
 ![Cybersecurity Community IIITDM](https://img.shields.io/badge/🔐_Cybersecurity_Community_IIITDM-Coordinator-2E8B57?style=for-the-badge) <br>
 
